@@ -1,2 +1,2 @@
-# programming-problems
-Problems solutions from some platforms
+competitive-programming
+Codeforces Solutions
